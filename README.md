@@ -19,16 +19,14 @@ Interests: generative art • bash automation • electronics • video games
 </picture>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> More About Me
-- 🧰 Current stack: React / TypeScript • VTEX IO • AEM as a Cloud Service
-- 🐧 Linux enthusiast • bash • generative art • electronics • video games
+- Current stack: React / TypeScript • VTEX IO • AEM as a Cloud Service
+- Linux enthusiast • bash • generative art • electronics • video games
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nodejs,express,graphql,java,postgres,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nodejs,express,graphql,java,postgres,git,githubactions&theme=dark" />
 </p>
 
 <details>
   <summary><b>Holopin board</b></summary>
-
   [![@sztr's Holopin board](https://holopin.io/api/user/board?user=sztr)](https://holopin.io/@sztr)
-
 </details>
