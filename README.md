@@ -12,11 +12,11 @@ After hours: Processing generative art + bash automation + electronics tinkering
 />
 </picture>
 
-### 👾 More About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> More About Me
 - ⚛️ Senior Web Developer
 - 🧩 AEM as a Cloud Service (front-end + back-end)
 - 🛒 VTEX IO • storefronts + integrations
-- 🐧 Linux enthusiast (CachyOS) • bash • generative art • electronics • video games
+- 🐧 Linux enthusiast • bash • generative art • electronics • video games
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nodejs,express,graphql,java,postgres,git&theme=dark" />
