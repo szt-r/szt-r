@@ -1,8 +1,7 @@
 <h1 align="center">szt-r</h1>
 
 <p align="center">
-Senior Front-End Developer (React) → going Full Stack<br/>
-AEM as a Cloud Service • VTEX IO • Performance • Accessibility
+Senior Front-End Developer → going Full Stack
 </p>
 
 <p align="center">
@@ -20,61 +19,13 @@ AEM as a Cloud Service • VTEX IO • Performance • Accessibility
 
 ---
 
-## Stats
-
-<div align="center">
-
-<img height="165" alt="GitHub Stats"
-src="https://github-readme-stats.vercel.app/api?username=szt-r&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" alt="Top Languages"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=szt-r&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img alt="Streak"
-src="https://streak-stats.demolab.com?user=szt-r&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-<img alt="Activity Graph"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=szt-r&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
 ## Skills
 
-### Core (icons)
 <p align="left">
 <img
   src="https://skillicons.dev/icons?i=react,ts,js,html,css,next,nodejs,express,graphql,java,postgres,git,githubactions,docker&theme=dark"
 />
 </p>
-
-### Front-End
-
-### AEM as a Cloud Service
-
-### VTEX IO
-
----
-
-## Featured Projects
-- **Project Name** — one-line impact statement. ([Repo](REPO_URL) • [Live](LIVE_URL))
-- **Project Name** — one-line impact statement. ([Repo](REPO_URL) • [Live](LIVE_URL))
-- **Project Name** — one-line impact statement. ([Repo](REPO_URL) • [Live](LIVE_URL))
-
-<!-- Optional pinned repo cards (replace REPO_NAME) -->
-<!--
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=szt-r&repo=REPO_NAME&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=szt-r&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
-</div>
--->
 
 ---
 
