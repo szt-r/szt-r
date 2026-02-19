@@ -27,12 +27,5 @@ Senior Front-End Developer → going Full Stack
 />
 </p>
 
----
-
-## Contact
-- LinkedIn: YOUR_LINKEDIN_URL
-- Portfolio: YOUR_PORTFOLIO_URL
-- Email: YOUR_EMAIL
-
 
 [![@sztr's Holopin board](https://holopin.io/api/user/board?user=sztr)](https://holopin.io/@sztr)
