@@ -1,32 +1,30 @@
-<h1 align="center">szt-r</h1>
+```bash
+szt-r@github:~$ about
+Web dev who reverse-engineers weird bugs (front-end or back-end) \
+After hours: Processing generative art + bash automation + electronics tinkering.
+```
 
-<p align="center">
-Senior Front-End Developer → going Full Stack
-</p>
+<picture>
+<img
+  align="right"
+  width="35%"
+  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=szt-r&theme=nord_dark"
+/>
+</picture>
 
-## About
-- Senior Web Developer focused on **React** and scalable UI architecture
-- **AEM as a Cloud Service**: front-end + back-end development, component-driven builds, and cloud configs
-- **VTEX IO**: storefront development and platform integrations
-
-
-## Skills
+### 👾 More About Me
+- ⚛️ Senior Web Developer
+- 🧩 AEM as a Cloud Service (front-end + back-end)
+- 🛒 VTEX IO • storefronts + integrations
+- 🐧 Linux enthusiast (CachyOS) • bash • generative art • electronics • video games
 
 <p align="left">
-<img
-  src="https://skillicons.dev/icons?i=react,ts,js,html,css,next,nodejs,express,graphql,java,postgres,git,githubactions,docker&theme=dark"
-/>
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nodejs,express,graphql,java,postgres,git&theme=dark" />
 </p>
 
+<details>
+  <summary><b>Holopin board</b></summary>
 
-[![@sztr's Holopin board](https://holopin.io/api/user/board?user=sztr)](https://holopin.io/@sztr)
+  [![@sztr's Holopin board](https://holopin.io/api/user/board?user=sztr)](https://holopin.io/@sztr)
 
-<img
-alt="stats"
-src="https://github-readme-stats.vercel.app/api?username=szt-r&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&theme=chartreuse-dark"
-/>
-
-<img
-alt="streak"
-src="https://streak-stats.demolab.com?user=szt-r&hide_border=true&background=0D1117&ring=7CFC00&fire=7CFC00&currStreakNum=7CFC00&currStreakLabel=7CFC00&sideNums=7CFC00&sideLabels=7CFC00&dates=7CFC00"
-/>
+</details>
