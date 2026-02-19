@@ -1,21 +1,25 @@
 ```bash
-szt-r@github:~$ about
-Web dev who reverse-engineers weird bugs (front-end or back-end) \
-After hours: Processing generative art + bash automation + electronics tinkering.
+szt-r@github:~$ whoami
+Senior dev by day, bug whisperer by night.
+```
+
+```bash
+szt-r@github:~$ neofetch
+OS: CachyOS (KDE Plasma)
+TERM: Ghostty + zsh  |  Editor: VS Code (learning LazyVim)  |  Tools: tmux
+Interests: generative art • bash automation • electronics • video games
 ```
 
 <picture>
 <img
   align="right"
   width="35%"
-  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=szt-r&theme=nord_dark"
+  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=szt-r&theme=tokyonight"
 />
 </picture>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> More About Me
-- ⚛️ Senior Web Developer
-- 🧩 AEM as a Cloud Service (front-end + back-end)
-- 🛒 VTEX IO • storefronts + integrations
+- 🧰 Current stack: React / TypeScript • VTEX IO • AEM as a Cloud Service
 - 🐧 Linux enthusiast • bash • generative art • electronics • video games
 
 <p align="left">
